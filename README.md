@@ -41,5 +41,4 @@ This repository contains a fully interactive, multi-year dashboard visualizing a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kpk-agriculture-dashboard.git
-   cd kpk-agriculture-dashboard
+   git clone https://github.com/econ-owais/-kpk-agriculture-dashboard-2015-2024
