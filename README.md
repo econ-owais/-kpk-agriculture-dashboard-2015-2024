@@ -1,3 +1,11 @@
+📥 How to View the Dashboard
+⚠️ To view the dashboard correctly, please download the entire repository, not just the dashboard.html file.
+The dashboard relies on supporting files and dependencies that are generated alongside the HTML.
+Without these, the dashboard may appear blank or broken.
+
+✅ Recommended Steps:
+- Click the green “Code” button and select “Download ZIP”
+
 # 🌾 KPK Agriculture Expenditure Dashboard (2015–2024)
 
 This repository contains a fully interactive, multi-year dashboard visualizing agricultural expenditures across **Khyber Pakhtunkhwa (KPK)** from **2015 to 2024**. Built in **R** using `plotly`, `DT`, and `htmltools`, the dashboard is designed to support planners, analysts, and community stakeholders in making data-driven decisions.
